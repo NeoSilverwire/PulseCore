@@ -22,7 +22,8 @@ looked like, built for modern Linux/Xcursor instead.
 ## What's animated
 
 20 states are custom-built; everything else falls back to your existing
-cursor theme via `Inherits=` in `index.theme`.
+cursor theme via `Inherits=` in `index.theme`. See **[STATES.md](STATES.md)**
+for an animated preview of every single one.
 
 | State | Behavior |
 |---|---|
