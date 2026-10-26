@@ -1,0 +1,4 @@
+[Icon Theme]
+Name=Matrix-Circles
+Comment=Eigenes animiertes Matrix-Theme (Zielmarkierungs-Kreis, inspiriert von "Circles v2" fuer CursorXP). Deckt default/pointer/wait/text/resize ab, Rest geerbt.
+Inherits=Oxygen 14 Matrix Green
